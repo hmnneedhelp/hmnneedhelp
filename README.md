@@ -12,7 +12,7 @@ role:        Middle Frontend / Full-stack Developer
 experience:  3+ years of commercial development
 focus:       [web apps, mobile apps, AI products]
 status:      open to offers
-email:       ilovememesdontkillme@gmail.com
+email:       pakhomovaian@gmail.com
 telegram:    t.me/vladtesla
 linkedin:    linkedin.com/in/mylastnirvana
 ```
@@ -57,9 +57,9 @@ testing:     [Vitest, Playwright]
 ## Contact
 
 ```bash
-$ mail ilovememesdontkillme@gmail.com
+$ mail pakhomovaian@gmail.com
 $ telegram @vladtesla
 $ open linkedin.com/in/mylastnirvana
 ```
 
-[`→ ilovememesdontkillme@gmail.com`](mailto:ilovememesdontkillme@gmail.com) · [`→ t.me/vladtesla`](https://t.me/vladtesla) · [`→ linkedin`](https://www.linkedin.com/in/mylastnirvana/)
+[`→ pakhomovaian@gmail.com`](mailto:pakhomovaian@gmail.com) · [`→ t.me/vladtesla`](https://t.me/vladtesla) · [`→ linkedin`](https://www.linkedin.com/in/mylastnirvana/)
