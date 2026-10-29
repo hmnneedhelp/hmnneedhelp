@@ -20,7 +20,7 @@ hmnneedhelp — full-stack & mobile developer · AI-native
 
 ```yaml
 languages:  [TypeScript, JavaScript, Python, PHP]
-frontend:   [React, Next.js, Vite, TanStack Query, TanStack Router, Zustand, Zod]
+frontend:   [React, Solid.js, Next.js, Vite, TanStack Query, TanStack Router, Zustand, Zod]
 ui:         [Tailwind CSS, shadcn/ui, Radix UI, Sass, Storybook]
 mobile:     [React Native, Expo, Firebase]
 desktop:    [Tauri]
