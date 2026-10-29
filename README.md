@@ -19,7 +19,7 @@ contact:     [ilovememesdontkillme@gmail.com, t.me/vladtesla]
 ## Summary
 
 ```diff
-+ Middle frontend / full-stack developer with 3+ years of commercial experience
++ Middle frontend / full-stack developer, 3+ years commercial
 + Web apps: React, Next.js
 + Mobile apps: React Native, Expo
 + Desktop apps: Tauri
