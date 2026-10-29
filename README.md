@@ -10,7 +10,7 @@ name:        Aian
 github:      hmnneedhelp
 role:        Middle Frontend / Full-stack Developer
 experience:  3+ years of commercial development
-focus:       [web apps, mobile apps, AI products]
+focus:       [web apps, cross-platform mobile apps, AI products]
 status:      open to offers
 email:       pakhomovaian@gmail.com
 telegram:    t.me/vladtesla
@@ -21,37 +21,49 @@ linkedin:    linkedin.com/in/mylastnirvana
 
 ```diff
 + Middle frontend / full-stack developer, 3+ years commercial
-+ Web apps: React, Next.js
-+ Mobile apps: React Native, Expo
-+ Desktop apps: Tauri
-+ AI products: chat interfaces, agents, streaming UIs
++ Web: React, Next.js, SolidStart
++ Mobile: Tauri 2 (iOS / Android), React Native, Expo
++ Native bits in Rust: Tauri plugins, secure key storage
++ Realtime: collaborative editing over WebSockets
++ E2E testing with Playwright, releases to App Store and Google Play
 + AI-native workflow: Claude and coding agents daily
-+ Works with typed code, design systems and Storybook
 ```
 
 ## Stack
 
 ```yaml
-primary:     [TypeScript, React, Next.js, React Native, Expo]
-frontend:    [Solid.js, Vite, TanStack Query, TanStack Router, Zustand, Zod]
+primary:     [TypeScript, React, SolidStart, Tauri 2, React Native]
+frontend:    [Next.js, Vite, TanStack Query, TanStack Router, Zustand, Zod]
 ui:          [Tailwind CSS, shadcn/ui, Storybook]
-ai:          [Claude, Vercel AI SDK, assistant-ui, Letta, DeepSeek]
-desktop:     [Tauri]
-backend:     [Node.js, Laravel, PHP, Python, JavaScript]
-data:        [PostgreSQL, MongoDB, MinIO]
-devops:      [Docker, Nginx, GitLab CI]
-testing:     [Vitest, Playwright]
+mobile:      [Tauri 2, React Native, Expo, Firebase, MapLibre]
+backend:     [Node.js, Laravel, PHP, Rust, Python]
+realtime:    [Laravel Reverb, WebSockets]
+data:        [PostgreSQL, MinIO]
+devops:      [Docker, Nginx, GitHub Actions, GitLab CI]
+testing:     [Playwright, Vitest]
+ai:          [Claude, coding agents]
 ```
 
 ## Experience
 
 ```ini
-[01]  AI chat platform ....... React, React Native, AI SDK, Node.js
-[02]  CRM & admin panels ..... React, TanStack, shadcn/ui
-[03]  Telegram mini apps ..... TanStack Start, Tailwind CSS
-[04]  Mobile apps ............ React Native, Expo, Firebase
-[05]  Web platforms .......... Next.js, Laravel, Reverb
-[06]  Design systems ......... Storybook, Vitest
+[01]  AI-agent SaaS platform (B2B)
+      SolidStart · Tauri 2 iOS/Android · Rust · Playwright
+      client app, booking reminders via push, secure token
+      storage, store releases, i18n ru / kk / en
+
+[02]  Corporate learning platform
+      React · Laravel · Reverb · Docker
+      knowledge base, realtime co-editing, version history,
+      Word / Excel import, org structure, Bitrix24 SSO
+
+[03]  Retail chain mobile app
+      React Native · Expo · Firebase · MapLibre
+      phone auth, loyalty program, orders, doctor booking,
+      store map, push notifications
+
+[04]  CRM, mini apps & design system
+      React · TanStack · Next.js · Storybook
 ```
 
 ## Contact
