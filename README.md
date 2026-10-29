@@ -11,7 +11,6 @@ github:      hmnneedhelp
 role:        Middle Frontend / Full-stack Developer
 experience:  3+ years of commercial development
 focus:       [web apps, mobile apps, AI products]
-location:    Yakutsk, Russia
 status:      open to offers
 contact:     [ilovememesdontkillme@gmail.com, t.me/vladtesla]
 ```
