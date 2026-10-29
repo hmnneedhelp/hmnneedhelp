@@ -33,7 +33,8 @@ linkedin:    linkedin.com/in/mylastnirvana
 
 ```yaml
 primary:     [TypeScript, React, SolidStart, Tauri 2, React Native]
-frontend:    [Next.js, Vite, TanStack Query, TanStack Router, Zustand, Zod]
+frontend:    [Next.js, Vite, TanStack Query, TanStack Router]
+state:       [Zustand, Zod]
 ui:          [Tailwind CSS, shadcn/ui, Storybook]
 mobile:      [Tauri 2, React Native, Expo, Firebase, MapLibre]
 backend:     [Node.js, Laravel, PHP, Rust, Python]
