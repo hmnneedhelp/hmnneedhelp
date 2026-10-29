@@ -47,20 +47,17 @@ quality:    [ESLint, Biome, Vitest, Playwright, Husky, Commitlint]
 ## Work
 
 ```ini
-[01]  AI chat platforms ............ web · mobile · dashboard · messenger bot
-[02]  CRM systems & admin panels ... TanStack Router / Query / Table · shadcn/ui
-[03]  Telegram-style mini apps ..... TanStack Start · Tailwind CSS
-[04]  Mobile apps .................. React Native · Expo · MapLibre · push
-[05]  Web platforms ................ Next.js · Laravel · Reverb · Editor.js
-[06]  UI kits & design systems ..... Storybook · Chromatic · Vitest
+[01]  AI chat platforms ....... web · mobile · bot
+[02]  CRM & admin panels ...... TanStack · shadcn/ui
+[03]  Telegram mini apps ...... TanStack Start
+[04]  Mobile apps ............. React Native · Expo
+[05]  Web platforms ........... Next.js · Laravel
+[06]  Design systems .......... Storybook · Vitest
 ```
 
 ## Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hmnneedhelp&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&border_radius=6&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=9e9e9e&ring_color=ffffff" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmnneedhelp&layout=donut&langs_count=6&hide_border=true&border_radius=6&bg_color=000000&title_color=ffffff&text_color=9e9e9e" alt="Top languages" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hmnneedhelp&hide_border=true&radius=6&bg_color=000000&color=9e9e9e&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff" alt="Contribution graph" />
+<img width="100%" src="https://streak-stats.demolab.com?user=hmnneedhelp&hide_border=true&border_radius=6&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=9e9e9e&dates=6e6e6e&stroke=333333" alt="GitHub streak" />
 
 ## Contact
 
