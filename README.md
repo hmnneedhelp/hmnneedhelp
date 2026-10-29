@@ -49,4 +49,3 @@ quality:    [ESLint, Biome, Vitest, Playwright, Husky, Commitlint]
 ## Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-@vladtesla-ffffff?style=flat-square&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/vladtesla)
-[![Instagram](https://img.shields.io/badge/Instagram-@mylastnirvana-ffffff?style=flat-square&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/mylastnirvana)
